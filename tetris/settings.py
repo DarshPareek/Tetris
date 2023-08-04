@@ -1,0 +1,10 @@
+blockSize = 30
+screenWidth = 10
+screenHeight = 20
+tilesize = 28
+fps = 60
+timeDelay = 150 
+ssm = (500,600)
+sbgc = (82, 82, 82)
+lbgc = (59, 59, 59)
+bbgc = (96, 163, 217)
